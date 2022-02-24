@@ -27,6 +27,7 @@
 		B5F2B0C527C5CC460056F04B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B5F2B0CC27C5CF6A0056F04B /* encryptedFile.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = encryptedFile.txt; sourceTree = "<group>"; };
 		B5F2B0CD27C5CF850056F04B /* decryptedFile.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = decryptedFile.txt; sourceTree = "<group>"; };
+		B5F2B0CE27C733D00056F04B /* edtxt.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = edtxt.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				B5F2B0C527C5CC460056F04B /* main.cpp */,
 				B5F2B0CC27C5CF6A0056F04B /* encryptedFile.txt */,
 				B5F2B0CD27C5CF850056F04B /* decryptedFile.txt */,
+				B5F2B0CE27C733D00056F04B /* edtxt.txt */,
 			);
 			path = encryptDecrypt;
 			sourceTree = "<group>";
